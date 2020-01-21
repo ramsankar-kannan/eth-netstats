@@ -1,0 +1,11 @@
+{"timestamp":"Thu Jan 09 2020 18:36:51 GMT+0530 (IST)","propagationArray":[],"avgPropagation":0}
+{"timestamp":"Thu Jan 09 2020 18:58:09 GMT+0530 (IST)","propagationArray":[],"avgPropagation":0}
+{"timestamp":"Sat Jan 11 2020 09:52:02 GMT+0530 (IST)","propagationArray":[],"avgPropagation":0}
+{"timestamp":"Sat Jan 11 2020 13:52:06 GMT+0530 (IST)","propagationArray":[],"avgPropagation":0}
+{"timestamp":"Sat Jan 11 2020 17:52:30 GMT+0530 (IST)","propagationArray":[],"avgPropagation":0}
+{"timestamp":"Tue Jan 21 2020 10:38:54 GMT+0530 (IST)","propagationArray":[],"avgPropagation":0}
+{"timestamp":"Tue Jan 21 2020 13:08:49 GMT+0530 (IST)","propagationArray":[],"avgPropagation":0}
+{"timestamp":"Tue Jan 21 2020 13:35:34 GMT+0530 (IST)","propagationArray":[],"avgPropagation":0}
+{"timestamp":"Tue Jan 21 2020 13:43:32 GMT+0530 (IST)","propagationArray":[],"avgPropagation":0}
+{"timestamp":"Tue Jan 21 2020 15:50:26 GMT+0530 (IST)","propagationArray":[],"avgPropagation":0}
+{"timestamp":"Tue Jan 21 2020 16:02:03 GMT+0530 (IST)","propagationArray":[],"avgPropagation":0}
